@@ -1,0 +1,66 @@
+{
+    "componentChunkName": "component---src-templates-fashion-pages-product-tsx",
+    "path": "/product/Royal-men-s-kurta-39438431606020985",
+    "result": {
+        "pageContext": {
+            "OgImage": "https://i.imgur.com/U3oCNfG.jpeg",
+            "NavBarBackgroundImage": "http://d32kprqn8e36ns.cloudfront.net/HomePage.webp",
+            "BrandLogo": "https://i.imgur.com/U3oCNfG.jpeg",
+            "BrandName": "Battle Harbour Design Studio",
+            "Facebook": "",
+            "Twitter": "",
+            "Instagram": "",
+            "ProductData": {
+                "Price": 2000,
+                "ProductID": 226,
+                "UniqueProductID": "Royal-men-s-kurta-39438431606020985",
+                "ProductCustomized": {
+                    "Title": "Metallic Tiered Lehenga",
+                    "ShortDescription": "Tiered lehenga paired with metallic chevron structured blouse in polymer and drape.",
+                    "MarketPrice": 80000,
+                    "PrimaryImage": "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_1.jpg",
+                    "ProductCustomizedProperties": {
+                        "ProductImage": [
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_2.jpg",
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_3.jpg",
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_1.jpg",
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_1.jpg",
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_1.jpg",
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_1.jpg",
+                            "https://ik.imagekit.io/thestylist/aa-prod/pub/media_aa/catalog/product/a/a/aaic-539-mnt_1.jpg"
+                        ],
+                        "ProductDescription": [
+                            "This pastel multi coloured lehenga set has a glam feel to it and features silver metallic embroidery and is highlighted with pearls, crystals, and sequins."
+                        ],
+                        "Fabrics": [
+                            "Cotton",
+                            "Plain Cotton",
+                            "Lining (2 x 1)",
+                            "2 x 2",
+                            "Cotton Jute",
+                            "Cotton Silk",
+                            "Mul Mul",
+                            "Voile"
+                        ],
+                        "Styles": [
+                            "Ethnic",
+                            "Trousseau",
+                            "Festive",
+                            "Social",
+                            "Bridal",
+                            "Festive1",
+                            "Social1",
+                            "Bridal2"
+                        ]
+                    }
+                },
+                "ProductSKUs": [{
+                    "Title": "Main",
+                    "SKU": "B00000001P0000226",
+                    "StockAvailable": 1000
+                }]
+            }
+        }
+    },
+    "staticQueryHashes": []
+}
